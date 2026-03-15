@@ -144,7 +144,7 @@ df_plot = df[df['sum_gamerounds'] <= p99]
 | `01_EDA.ipynb` | ✅ 완료 | 탐색적 데이터 분석 |
 | `02_가설검정.ipynb` | ✅ 완료 | 카이제곱 / Z-test / Bootstrap 가설 검정 |
 | `03_이상치_민감도.ipynb` | ✅ 완료 | 이상치 기준별 민감도 분석 (결론의 robust성 검증) |
-| `04_conclusion.ipynb` | 📋 예정 | 비즈니스 의사결정 종합 정리 |
+| `04_conclusion.ipynb` | ✅ 변경 | report.md 파일 참고 |
 
 ## 최종 비즈니스 결론
 
